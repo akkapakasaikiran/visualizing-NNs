@@ -10,6 +10,12 @@ In this project, we will learn and implement some ways of answering this questio
 The rough plan is to study i) saliency maps [1], ii) occlusion sensitivity maps [2], iii) Class Activation Maps (CAM) [3], and iv) Gradient-based CAM [4].
 You will also implement these to gain a better, hands-on, understanding. Finally, you will document your learnings in a report. 
 
+<p align="middle">
+	<img src="figs/dog.jpg" width="20%">	
+	<img src="figs/cat.jpg" width="20%">
+</p>
+
+
 ### Structure and Timeline
 
 1. **Reading**. 
