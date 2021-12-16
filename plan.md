@@ -56,7 +56,7 @@ On the flip side, we can discuss and skip some stuff if there's a time crunch. B
 
 - Code
 	- Class Activation Map methods implemented in Pytorch, https://github.com/jacobgil/pytorch-grad-cam/
-
+        - What does a CNN see?, https://colab.research.google.com/drive/1xM6UZ9OdpGDnHBljZ0RglHV_kBrZ4e-9?s=08#scrollTo=eNnIA33ohDkf
 
 ## References
 
